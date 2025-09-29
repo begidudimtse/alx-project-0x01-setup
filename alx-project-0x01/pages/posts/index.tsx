@@ -1,4 +1,6 @@
 import React from "react";
+import Header from "@/components/layout/Header";
+
 import PostCard from "../../components/common/PostCard";
 
 const PostsPage: React.FC = () => {
